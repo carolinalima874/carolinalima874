@@ -1,8 +1,14 @@
 - <h1>Olá !meu nome é carolina lima</h1> 
-  
-  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinalima&show_icons=true&theme=radical)
+
+
+
+ <div align=left">
+  <a href="https://github.com/carolinalima874">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolinalima&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a> 
+
 
 <div style="display: inline_block"><br>
 
