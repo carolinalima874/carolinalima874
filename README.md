@@ -19,8 +19,10 @@
   <img align="center" alt="Rafa-C" height="30" width="50" src="https://img2.gratispng.com/20180405/doe/kisspng-the-c-programming-language-computer-programming-co-programmer-5ac6bd83099b97.1672069615229740830394.jpg">
   <img align="center" alt="Rafa-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Rafa-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ 
+ <img align="center" alt="github" height="35" width="35" src="https://img1.gratispng.com/20180514/hcq/kisspng-github-logo-repository-computer-icons-5afa376beb2671.4883383715263476279632.jpg">
+  <img align="center" alt="Rafa-Python" height="30" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></div> <img align="right" alt="carol-picrew" height="150"src="https://media.discordapp.net/attachments/1143989086437265538/1143994229652209714/20230823_161134.gif">
  
 
