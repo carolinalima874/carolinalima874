@@ -3,7 +3,7 @@
     <a href="https://https://www.instagram.com/eucarol_rodriguez/">carolina lima</a>
   </h1>
 <p align="left">
-    Sou estudante de Analise e desenvolvimento da web e estudando para ser dev front-end
+    Sou estudante de Analise e desenvolvimento da web e estudando para ser dev front-end 
 
 
 
@@ -12,10 +12,9 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolinalima&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a> 
-
-
+     
+-linguagem que estou estudando:   
 <div style="display: inline_block"><br>
-
   <img align="center" alt="Rafa-C" height="30" width="50" src="https://img2.gratispng.com/20180405/doe/kisspng-the-c-programming-language-computer-programming-co-programmer-5ac6bd83099b97.1672069615229740830394.jpg">
   <img align="center" alt="Rafa-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
