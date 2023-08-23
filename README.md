@@ -21,7 +21,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="right" alt="carol-picrew" height="130"src="https://media.discordapp.net/attachments/1143989086437265538/1143994229652209714/20230823_161134.gif">
+ <img align="right" alt="carol-picrew" height="110"src="https://media.discordapp.net/attachments/1143989086437265538/1143994229652209714/20230823_161134.gif">
  </div> 
 
 
