@@ -4,11 +4,14 @@
 
 <p align="left">
  - Sou estudante de Analise e desenvolvimento da web e estudando para ser dev front-end
-
+<div/>
 <a href="https://instagram.com/eucarol_rodriguez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:carolinalima894@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor red" target="_blank"></a>
   <a href="https://www.linkedin.com/in//carol-lima-6930b028a/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <div></div>
+   <a href="https://trustinthesky.tumblr.com/" target="_blank"><img src="https://img.shields.io/badge/Tumblr-34526f?style=for-the-badge&logo=tumblr&logoColor=white"></a
+  <a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="blank"></a>
+ 
+  <div/>
    
      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
