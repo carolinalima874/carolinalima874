@@ -9,7 +9,7 @@
   <div/>
    
      
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinalima874&show_icons=true&theme=midnight-purple)
    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=midnight-purple&hide_border=false&&layout=compact"/>
   
   </a>  
