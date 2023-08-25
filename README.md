@@ -9,7 +9,7 @@
   <a href = "mailto:carolinalima894@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor red" target="_blank"></a>
   <a href="https://www.linkedin.com/in//carol-lima-6930b028a/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <div></div>
-   <img align="right" alt="carol-picrew" height="200"src="https://media.discordapp.net/attachments/1143989086437265538/1143994229652209714/20230823_161134.gif">
+   <img align="right" alt="carol-picrew" height="180"src="https://media.discordapp.net/attachments/1143989086437265538/1143994229652209714/20230823_161134.gif">
      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=midnight-purple&hide_border=false&&layout=compact"/>
