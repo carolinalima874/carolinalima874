@@ -3,17 +3,16 @@
     <a href="https://https://www.instagram.com/eucarol_rodriguez/">carolina lima</a><div/>
 
 <p align="left">
+    
  - Sou estudante de Analise e desenvolvimento da web e estudando para ser dev front-end
 
  
   <div/>
    
-     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinalima874&show_icons=true&theme=midnight-purple)
    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=midnight-purple&hide_border=false&&layout=compact"/>
   
   </a>  
- -linguagem que estou estudando:   
+ <h1>linguagem que estou estudando:</h1>  
 </h1>   
 <div style="display: inline_block"><br/> 
   <div></div>  
