@@ -19,6 +19,7 @@
    <img align="center" height="40" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
      <img align="right" height="150" alt="coding-time" src="https://media.discordapp.net/attachments/1143989086437265538/1143994229652209714/20230823_161134.gif"> 
    <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="github" height="35" width="35" src="https://th.bing.com/th/id/OIP.Vn8Aa5ypdPND2xyceZIAdAHaHS?cb=iwc1&rs=1&pid=ImgDetMain">
