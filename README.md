@@ -4,7 +4,7 @@
 
 <p align="left">
     
- - Sou estudante de Analise e desenvolvimento de sistema e estudando para ser dev front-end
+ - Sou Desenvolvedor web e especialista em inteligencia artificial
 
  
   <div/>
@@ -22,8 +22,7 @@
       <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="carol-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" alt="github" height="35" width="35" src="https://th.bing.com/th/id/OIP.Vn8Aa5ypdPND2xyceZIAdAHaHS?cb=iwc1&rs=1&pid=ImgDetMain">
-    <img align="center" height="40" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
+ <img align="center" alt="github" height="35" width="35" src="https://th.bing.com/th/id/OIP.Vn8Aa5ypdPND2xyceZIAdAHaHS?cb=iwc1&rs=1&pid=ImgDetMain"> 
     <img align="center" alt="carol-sql" height="40" width="50"src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
  <img align="center" alt="carol-Python" height="40" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img align="center" alt="carol-go" height="50" width="50"src="https://iconape.com/wp-content/png_logo_vector/go-logo-blue.png">
